@@ -1,0 +1,104 @@
+#-------------------------------
+# General Site Settings
+
+title: Fabrizio Tappero
+description: A Videographer and an Engineer 
+email: fabrizio.tappero@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the Internet.
+
+seo:
+  description: 'Video editing, aerial videos, engineering, drones, video post-processing.'
+  rel-author: 'https://plus.google.com/u/0/107967937093458188059/'
+  rel-publisher: 'https://plus.google.com/u/0/107967937093458188059/'
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Fabrizio makes video shooting machines.**
+  Most of the things he makes are [too complicated digital electronics](http://freerangefactory.org)
+  ultimately  aimed at crafting [great videos.](https://vimeo.com/fabriziotappero/videos)
+  He specilises as well in [video editing](https://www.youtube.com/user/fabrizioScreencast) 
+  for post-processing work. If you are interested in knowing more about him, have a look at his 
+  [linkedIn profile](https://www.linkedin.com/in/fabriziotappero) or at his more interesting
+  [Google+ profile](https://plus.google.com/u/0/107967937093458188059).
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
+- {name: Video Editing, value: '8'}
+- {name: Planning, value: '7'}
+- {name: Programming, value: '8'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: One day With Fox-Head Rider, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Luxury Homes, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Bed & Breakfast, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Theatre Play, folder: 'proj-4', file: 'work/proj-4.html'}
+#- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+#- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+#- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+#- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-moreno_nicoletta.jpg',
+  name: 'Moreno Nicoletta',
+  title: 'Owner of B&B LOspitalita del Castello',
+  quote: '<p><strong>Fabrizio made for us a great promotional video</strong> of our business activity. He took care of every aspect: locations, shooting, video editing and publishing. We were very pleased by his professionalism, his personal touch and of course by the final work.</p>',
+  logo: 'logo_lospitalitadelcastello.png'}
+- {avatar: 'face-generic.jpg',
+  name: 'Bruno Schiavi',
+  title: 'Manager of onlocations.com',
+  quote: '<p><strong>Fabrizio produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like Fabrizio. Each single work he did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
+  logo: 'logo_onlocations.png'}
+- {avatar: 'face-nuria_casas.jpg',
+  name: 'Nuria Casas',
+  title: 'Actress and producer',
+  quote: '<p><strong>A very technical person with an artistic side.</strong> Fabrizio worked for us on the video production of a theatre play in Barcelona. I was certainly impressed by how well he got along with all crew members, to a point in which he cooked a meal for the whole crew of a one-day shooting. He is very creative and reliable at work and a good friend outside work.</p>',
+  logo: 'logo_tzsproduccions.png'}
+  
+  
+#-------------------------------
+# Contact Section
+  
+social:
+- {icon: 'film', link: 'https://vimeo.com/fabriziotappero/videos'}
+- {icon: 'googleplus', link: 'https://plus.google.com/u/0/107967937093458188059/'}
+- {icon: 'youtube', link: 'https://www.youtube.com/user/fabrizioScreencast'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/fabriziotappero/'}
+- {icon: 'github', link: 'https://github.com/fabriziotappero'}
+
+  
+# social network icons available are "home,camera,film,envelope,googleplus,facebook,twitter,youtube,vimeo,github,linkedin"
+
+
+
+  
+  
+  
+  
+  
+  
