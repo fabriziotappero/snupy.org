@@ -14,7 +14,9 @@ git commit -m 'added some good stuff'
 git push origin master
 
 ### STEP 4 ###
+git branch -D gh-pages
 git branch gh-pages
+git push origin gh-pages
 
 your website is now available on:
 http://fabriziotappero.github.io/snupy_www/
