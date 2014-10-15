@@ -17,7 +17,7 @@
       @extend %#{$animation}
     
     .client-face
-      min-width: 300px
+      min-width: 200px
       text-align: center
       
       img
@@ -126,7 +126,7 @@
     
     
 
-@media (max-width: 750px)
+@media (max-width: 800px)
   .clients-logos
     +flex-wrap(wrap)
   
@@ -144,11 +144,13 @@
       
       .client-content
         padding: 0px 30px
-        max-width: 400px
+        max-width: 550px
         margin: 0px auto
       
       .client-quote-mark
         left: 6px
+      .client-unquote-mark
+        right: 6px
 
   .client-controls
     display: none

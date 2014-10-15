@@ -55,10 +55,14 @@
     +perspective(300)
     @if $animation != "bounceOut"
       overflow: hidden
+
+    @media screen and (max-width: 520px)
+      width: 100%
+      padding-top: 50% // if you change the width you need to change this too
       
-    @media screen and (max-width: 760px)
-      width: 50%
-      padding-top: 26%
+    //@media screen and (max-width: 760px)
+    //  width: 50%
+    //  padding-top: 26%
     
     .thumb-overlay
       +position(absolute)
