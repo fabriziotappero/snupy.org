@@ -1,0 +1,8 @@
+## some help to use git ## 
+
+git clone https://github.com/fabriziotappero/snupy_www.git
+cd snupy_www.git
+do your modifications
+git status or git status -a or use gitk
+git add .
+git commit -m 'added some good stuff'
