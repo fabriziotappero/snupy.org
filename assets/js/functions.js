@@ -4,6 +4,7 @@ $(function() {
 	workLoad();
 	clientStuff();
 
+
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink").fitText(1.5);
 	
@@ -43,6 +44,23 @@ function workBelt() {
 }
 
 
+// resize the iframe to the same size has .project-load
+function adjustIframes(){
+  console.log('wwww');
+  var videoFrameWidth = $('.project-load').width();
+  $('iframe').each(function(){
+    var
+    $this       = $(this),
+    actual_w    = $this.width();
+
+    //set the height of the frame accordingly
+    proportion = 16/9;
+    $this.css( 'height', Math.round( actual_w / proportion ) + 'px' );
+  });
+}
+
+
+
 function  workLoad() {
   
   $.ajaxSetup({ cache: true });
@@ -53,13 +71,22 @@ function  workLoad() {
         newfolder = $this.data('folder'),
         spinner = '<div class="loader">Loading...</div>',
         newHTML = 'work/'+ newfolder;
-      
+   
     $('.project-load').html(spinner).load(newHTML);
     $('.project-title').text(newTitle);
-  });
-  
-}
 
+    //resize video iframe when the iframe is loaded (wait 0.5s)
+    // maybe not the better way but that is what I have
+    $(function(){
+    setTimeout(function(){
+    adjustIframes();
+    },500);
+    });
+
+    // resise vindow frame everytime somebody resize the browser. 
+    $(window).on('resize load',adjustIframes);
+  });
+}
 
 
 function clientStuff() {
@@ -67,7 +94,6 @@ function clientStuff() {
   $('.client-unit').first().addClass('active-client');
   $('.client-logo').first().addClass('active-client');
   $('.clients-mobile-nav span').first().addClass('active-client');
-  
   
   $('.client-logo, .clients-mobile-nav span').click(function() {
     var $this = $(this),
@@ -145,6 +171,11 @@ function clientStuff() {
   };
 
 })( jQuery );
+
+
+
+
+
 
 
 
