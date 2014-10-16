@@ -32,33 +32,20 @@ function workBelt() {
   $(".return").remove();
 
   $('.thumb-unit').click(function() {
-    $('.work-belt').addClass("slided");
+    //$('.work-belt').addClass("slided");
+    $('.thumb-container').hide(800);  // FT
     $('.work-container').show();
+    $('html, body').animate({scrollTop: $('#work').offset().top},300);
+
   });
   
   $('.work-return').click(function() {
-    $('.work-belt').removeClass("slided");
+    //$('.work-belt').removeClass("slided");
     $('.work-container').hide(800);
+    $('.thumb-container').show(800);  // FT
   });
 
 }
-
-
-// resize the iframe to the same size has .project-load
-function adjustIframes(){
-  console.log('wwww');
-  var videoFrameWidth = $('.project-load').width();
-  $('iframe').each(function(){
-    var
-    $this       = $(this),
-    actual_w    = $this.width();
-
-    //set the height of the frame accordingly
-    proportion = 16/9;
-    $this.css( 'height', Math.round( actual_w / proportion ) + 'px' );
-  });
-}
-
 
 
 function  workLoad() {
@@ -78,13 +65,11 @@ function  workLoad() {
     //resize video iframe when the iframe is loaded (wait 0.5s)
     // maybe not the better way but that is what I have
     $(function(){
-    setTimeout(function(){
-    adjustIframes();
-    },500);
+      setTimeout(function(){
+        $('.project-load').fitVids();
+      },500);
     });
 
-    // resise vindow frame everytime somebody resize the browser. 
-    $(window).on('resize load',adjustIframes);
   });
 }
 

@@ -3,8 +3,10 @@ header
   background:
     position: 30px 20px, 50% 50%
     image: url(../img/#{$logo-path}), url(../img/#{$hero-path}) 
+    blend-mode: normal, normal
   padding-bottom: 90px
-  
+  opacity: 0.99
+
   
   .logo
     +size(50px)
@@ -12,7 +14,7 @@ header
     margin: 10px 0 0 30px
     
     path
-      fill: rgba(0,0,0,0.4)
+      fill: rgba(0,0,0,0.99)
     
   nav
     float: right
@@ -21,6 +23,7 @@ header
     a
       display: inline-block
       margin-left: 20px
+      text-shadow: rgba(white,0.5) 1px 1px
       
       color: rgba(0,0,0,0.7)
       @extend %small-bold
@@ -41,12 +44,14 @@ header
     padding-top: 100px
     margin-left: 5px
     margin-right: 5px
+    text-shadow: rgba(grey,0.5) 1px 1px, rgba(grey,0.5) -1px -1px
     
     
     span
       display: inline-block
       padding: 0.2em 0.5em
       border: white solid 10px
+      box-shadow: rgba(white,0.2) 1px 1px, rgba(white,0.2) -1px -1px
   
   .kicker
     @extend %small-bold
@@ -54,6 +59,7 @@ header
     letter-spacing: 0.05em
     color: white
     line-height: 1
+    font-size: 18px
 
 @media (max-width: 640px)
   header
