@@ -23,10 +23,13 @@ header
     a
       display: inline-block
       margin-left: 20px
-      text-shadow: rgba(white,0.5) 1px 1px
       
       color: rgba(0,0,0,0.7)
       @extend %small-bold
+
+      //text-shadow: rgba(white,0.5) 1px 1px
+      padding: 0 2px 0 2px
+      background-color: rgba(white,0.2)
       
       &:hover
         color: rgba(0,0,0,1)
@@ -44,14 +47,14 @@ header
     padding-top: 100px
     margin-left: 5px
     margin-right: 5px
-    text-shadow: rgba(grey,0.6) 1px 1px, rgba(grey,0.6) -1px -1px
-    
-    
+    //text-shadow: rgba(grey,0.6) 1px 1px, rgba(grey,0.6) -1px -1px
+  
     span
       display: inline-block
       padding: 0.2em 0.5em
       border: white solid 10px
-      box-shadow: rgba(white,0.2) 1px 1px, rgba(white,0.2) -1px -1px
+      background-color: rgba(black,0.4)
+      //box-shadow: rgba(white,0.2) 1px 1px, rgba(white,0.2) -1px -1px
   
   .kicker
     @extend %small-bold
@@ -60,7 +63,10 @@ header
     color: white
     line-height: 1
     font-size: 18px
-    text-shadow: rgba(grey,0.8) 1px 1px, rgba(grey,0.8) -1px -1px
+    span
+      //text-shadow: rgba(grey,0.8) 1px 1px, rgba(grey,0.8) -1px -1px
+      padding: 0 7px 0 7px
+      background-color: rgba(black,0.4)
 
 @media (max-width: 640px)
   header
@@ -74,7 +80,7 @@ header
       padding-top: 95px
       
       a
-        margin-left: 10px
+        margin-left: 8px
     
     h1
       padding-top: 0px
