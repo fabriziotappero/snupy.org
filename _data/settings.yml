@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the Internet.
 
 seo:
-  description: 'Video editing, aerial videos, engineering, drones, video post-processing.'
+  description: 'Video editing, aerial videos, engineering, drones, video post-processing, Barcelona, Europe'
   rel-author: 'https://plus.google.com/u/0/107967937093458188059/'
   rel-publisher: 'https://plus.google.com/u/0/107967937093458188059/'
 
@@ -29,20 +29,23 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Fabrizio makes video shooting machines.**
-  Most of the things he makes are [too complicated digital electronics](http://freerangefactory.org)
-  ultimately  aimed at crafting [great videos.](https://vimeo.com/fabriziotappero/videos)
-  He specilises as well in [video editing](https://www.youtube.com/user/fabrizioScreencast) 
+  **Fabrizio makes a living shooting videos.**
+  Specifically he is very much into [complicated digital electronics](http://freerangefactory.org)
+  ultimately  aimed at crafting [great aerial videos.](https://vimeo.com/fabriziotappero/videos)
+  He specialises as well in [video editing](https://www.youtube.com/user/fabrizioScreencast) 
   for post-processing work. If you are interested in knowing more about him, have a look at his 
   [linkedIn profile](https://www.linkedin.com/in/fabriziotappero) or at his more interesting
-  [Google+ profile](https://plus.google.com/u/0/107967937093458188059).
+  [Google+ page](https://plus.google.com/u/0/107967937093458188059).
+  If you are interested in hiring him for a movie, an ad, a documentary or something video-like, 
+  do not hesitate!
 
 skills:
 - {name: Communication, value: '9'}
 - {name: Organization, value: '7'}
-- {name: Video Editing, value: '8'}
-- {name: Planning, value: '7'}
-- {name: Programming, value: '8'}
+- {name: Video Shooting, value: '8'}
+- {name: Video Post Processing, value: '6'}
+- {name: Embedded Programming, value: '8'}
+- {name: Electronics, value: '9'}
 
 #-------------------------------
 # Work Section
