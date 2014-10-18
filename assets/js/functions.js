@@ -59,16 +59,11 @@ function  workLoad() {
         spinner = '<div class="loader">Loading...</div>',
         newHTML = 'work/'+ newfolder;
    
-    $('.project-load').html(spinner).load(newHTML);
+    // load new page content and, when completed, run the vimeo iframe resize window
+    $('.project-load').html(spinner).load(newHTML,function(){$('.project-load').fitVids();});
     $('.project-title').text(newTitle);
 
-    //resize video iframe when the iframe is loaded (wait 0.5s)
-    // maybe not the better way but that is what I have
-    $(function(){
-      setTimeout(function(){
-        $('.project-load').fitVids();
-      },500);
-    });
+
 
   });
 }
