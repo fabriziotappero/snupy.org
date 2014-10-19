@@ -2,7 +2,7 @@
 title:
 ---
 
-This is a teaser for the Spanish theatre play *Ara que ho tenim tot*, Barcelona, Spain. 
+This is a teaser for the Spanish theatre play *Ara que ho tenim tot* that was shot in the Regina Theatre in Barcelona, Spain. 
 
 Starring Núria Casas y Jaume García Arija, *Ara que ho tenim tot* is a story about love and misery, about the wearing of a maybe too long relationship, sometimes hard to sustain. 
 
