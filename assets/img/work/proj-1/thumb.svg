@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="thumb.svg"
-   inkscape:export-filename="/home/fabrizio/Dropbox/Aerial_video/website/www.snupy/assets/img/work/proj-1/thumb.png"
+   inkscape:export-filename="/home/fabrizio/Dropbox/Aerial_video/website/snupy_www/assets/img/work/proj-1/thumb.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -66,45 +66,9 @@
        width="652.14288" />
     <path
        style="opacity:0.63519311;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -115.71429,668.79075 478.57144,11.42858 -101.42858,277.14285 25,123.57142 -402.85714,-0.7143 z"
+       d="m -115.71429,668.79075 401.42858,-4.28571 -63.57143,295.71428 50,118.57138 -388.57143,1.4286 z"
        id="path3805"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
-    <g
-       transform="matrix(0.99446066,0,0,1.0055702,2.8571429,9.2857143)"
-       style="font-size:43.57575989px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Condensed"
-       id="text2998">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="44.285702"
-         y="763.07642"
-         id="text3019"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0055702,0.99446066)"><tspan
-           sodipodi:role="line"
-           x="44.285702"
-           y="763.07642"
-           id="tspan3034"
-           style="font-size:29.99999986px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">FOX HEAD rider</tspan></text>
-    </g>
-    <g
-       transform="matrix(0.99446066,0,0,1.0055702,-52.081461,-98.213544)"
-       style="font-size:43.57575989px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ca000c;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Condensed"
-       id="text2998-3">
-      <text
-         xml:space="preserve"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-         x="144.28571"
-         y="910.2193"
-         id="text3019-0"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0055702,0.99446066)"><tspan
-           sodipodi:role="line"
-           x="144.28571"
-           y="910.2193"
-           id="tspan3034-3"
-           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">JULIO NUÑEZ</tspan></text>
-    </g>
   </g>
 </svg>

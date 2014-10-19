@@ -1,8 +1,8 @@
 ## some help to use git ## 
 
 ### STEP 1 ###
-git clone https://github.com/fabriziotappero/snupy_www.git
-cd snupy_www
+git clone https://github.com/fabriziotappero/snupy.org.git
+cd snupy.org
 
 ### STEP 2 ###
 do your modifications
@@ -19,7 +19,7 @@ git branch gh-pages
 git push origin gh-pages
 
 your website is now available on:
-http://fabriziotappero.github.io/snupy_www/
+http://fabriziotappero.github.io/snupy.org/
 
 more here here:
 http://rogerdudler.github.io/git-guide
