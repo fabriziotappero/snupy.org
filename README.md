@@ -1,2 +1,2 @@
-snupy.org website
+this is the supy.org website repository
 
