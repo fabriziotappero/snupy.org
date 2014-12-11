@@ -29,14 +29,14 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Fabrizio makes a living shooting videos.**
+  **Fabrizio loves shooting videos.**
   Specifically he is very much into [complicated digital electronics](http://freerangefactory.org)
-  ultimately  aimed at crafting [great aerial videos.](https://vimeo.com/fabriziotappero/videos)
-  He specialises as well in [video editing](https://www.youtube.com/user/fabrizioScreencast) 
-  for post-processing work. If you are interested in knowing more about him, have a look at his 
+    ultimately  aimed at crafting *challanging motion-camera videos* and [great aerial videos.](https://vimeo.com/fabriziotappero/videos)
+  He specialises as well in [blender](http://www.blender.org) video editing for post-processing work. 
+  If you are interested in knowing more about him, have a look at his 
   [linkedIn profile](https://www.linkedin.com/in/fabriziotappero) or at his more interesting
   [Google+ page](https://plus.google.com/u/0/107967937093458188059).
-  If you are interested in hiring him for a movie, an ad, a documentary or something video-like, 
+  If you are interested in contacting with him for a movie, an ad, a documentary or something video-like, 
   do not hesitate!
 
 skills:
@@ -72,7 +72,7 @@ clients:
   title: 'Owner of B&B LOspitalita del Castello',
   quote: '<p><strong>Fabrizio made for us a great promotional video</strong> of our business activity. He took care of every aspect: locations, shooting, video editing and publishing. We were very pleased by his professionalism, his personal touch and of course by the final work.</p>',
   logo: 'logo_lospitalitadelcastello.png'}
-- {avatar: 'face-generic.jpg',
+- {avatar: 'face-bruno_schiavi.jpg',
   name: 'Bruno Schiavi',
   title: 'Manager of onlocations.com',
   quote: '<p><strong>Fabrizio produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like Fabrizio. Each single work he did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
