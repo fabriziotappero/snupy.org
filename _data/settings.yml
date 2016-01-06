@@ -74,7 +74,7 @@ clients:
 - {avatar: 'face-bruno_schiavi.jpg',
   name: 'Bruno Schiavi',
   title: 'Manager of onlocations.com',
-  quote: '<p><strong>They produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like them. Each single work he did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
+  quote: '<p><strong>They produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like them. Each single work they did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
   logo: 'logo_onlocations.png'}
 - {avatar: 'face-nuria_casas.jpg',
   name: 'Nuria Casas',
