@@ -89,7 +89,7 @@ clients:
 social:
 - {icon: 'film', link: 'https://vimeo.com/fabriziotappero/videos'}
 - {icon: 'googleplus', link: 'https://plus.google.com/u/0/107967937093458188059/'}
-- {icon: 'youtube', link: 'https://www.youtube.com/user/fabrizioScreencast'}
+#- {icon: 'youtube', link: 'https://www.youtube.com/user/fabrizioScreencast'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/fabriziotappero/'}
 - {icon: 'github', link: 'https://github.com/fabriziotappero'}
 
