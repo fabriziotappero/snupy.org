@@ -3,7 +3,7 @@
 
 title: Fabrizio Tappero
 description: Hi, I am a Videographer and an Engineer
-email: fabrizio.tappero@gmail.com
+email: snupy.films@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -29,16 +29,14 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Fabrizio loves shooting videos.**
-  Specifically he is very much into [complicated digital electronics](http://freerangefactory.org)
-    ultimately  aimed at crafting *challanging motion-camera videos* and [great aerial videos.](https://vimeo.com/fabriziotappero/videos)
-  He specialises as well in [blender](http://www.blender.org) video editing for post-processing work. 
-  If you are interested in knowing more about him, have a look at his 
-  [linkedIn profile](https://www.linkedin.com/in/fabriziotappero) or at his more interesting
-  [Google+ page](https://plus.google.com/u/0/107967937093458188059).
-  If you are interested in [his gear](http://snupy.org/gear) or in contacting with 
-  him for a movie, an ad, a documentary or something related to videos, 
-  do not hesitate to shoot him an e-mail.
+  **I loves shooting videos.**
+  Specifically I am very much into [complicated digital electronics](http://freerangefactory.org)
+    ultimately  aimed at crafting *challanging motion-camera videos* and great aerial videos.
+  I specialise as well in Davinci Resolve video editing for post-processing work. 
+  If you are interested in knowing more about me, have a look at my video work.
+  If you are interested in [my gear](http://snupy.org/gear) or in contacting with 
+  me for a movie, an ad, a documentary or something related to videos, 
+  do not hesitate to shoot me an e-mail.
 
 skills:
 - {name: Communication, value: '9'}
