@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Express it Visually
+title: Say it Visually
 description: Hi, I am a Videographer and an Engineer
 email: snupy.films@gmail.com
 
@@ -69,17 +69,17 @@ clients:
 - {avatar: 'face-moreno_nicoletta.jpg',
   name: 'Moreno Nicoletta',
   title: 'Owner of B&B LOspitalita del Castello',
-  quote: '<p><strong>Fabrizio made for us a great promotional video</strong> of our business activity. He took care of every aspect: locations, shooting, video editing and publishing. We were very pleased by his professionalism, his personal touch and of course by the final work.</p>',
+  quote: '<p><strong>He made for us a great promotional video</strong> of our business activity. He took care of every aspect: locations, shooting, video editing and publishing. We were very pleased by his professionalism, his personal touch and of course by the final work.</p>',
   logo: 'logo_lospitalitadelcastello.png'}
 - {avatar: 'face-bruno_schiavi.jpg',
   name: 'Bruno Schiavi',
   title: 'Manager of onlocations.com',
-  quote: '<p><strong>Fabrizio produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like Fabrizio. Each single work he did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
+  quote: '<p><strong>He produced for us excellent video shots.</strong> We manage a large number of properties dealing with lots of customers and we need independent professionals like him. Each single work he did for us was impeccable both from the technical point of view as well as the artistic one. All our customers were very satisfied.</p>',
   logo: 'logo_onlocations.png'}
 - {avatar: 'face-nuria_casas.jpg',
   name: 'Nuria Casas',
   title: 'Actress and producer',
-  quote: '<p><strong>A very technical person with an artistic side.</strong> Fabrizio worked for us on the video production of a theatre play in Barcelona. I was certainly impressed by how well he got along with all crew members, to a point in which he cooked a meal for the whole crew of a one-day shooting. He is very creative and reliable at work and a good friend outside work.</p>',
+  quote: '<p><strong>A very technical person with an artistic side.</strong> He worked for us on the video production of a theatre play in Barcelona. I was certainly impressed by how well he got along with all crew members, to a point in which he cooked a meal for the whole crew of a one-day shooting. He is very creative and reliable at work and a good friend outside work.</p>',
   logo: 'logo_tzsproduccions.png'}
   
   
