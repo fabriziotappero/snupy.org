@@ -32,10 +32,10 @@ blurb: >
   **I loves shooting videos.**
   Specifically I am very much into [complicated digital electronics](http://freerangefactory.org)
     ultimately  aimed at crafting *challanging motion-camera videos* and great aerial videos.
-  I specialise as well in Davinci Resolve video editing for post-processing work. 
+  I specialise as well in Davinci Resolve video editing for post-processing work.
   If you are interested in knowing more about me, have a look at my video work.
-  If you are interested in [my gear](http://snupy.org/gear) or in contacting with 
-  me for a movie, an ad, a documentary or something related to videos, 
+  If you are interested in [my gear](http://snupy.org/gear) or in contacting with
+  me for a movie, an ad, a documentary or something related to videos,
   do not hesitate to shoot me an e-mail.
 
 skills:
@@ -54,8 +54,8 @@ projects:
 - {name: Luxury Homes, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Bed & Breakfast, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Theatre Play, folder: 'proj-4', file: 'work/proj-4.html'}
-#- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-#- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Restaurant Opening, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Dance With Me, folder: 'proj-6', file: 'work/proj-6.html'}
 #- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
 #- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
@@ -81,11 +81,11 @@ clients:
   title: 'Actress and producer',
   quote: '<p><strong>A very technical person with an artistic side.</strong> He worked for us on the video production of a theatre play in Barcelona. I was certainly impressed by how well he got along with all crew members, to a point in which he cooked a meal for the whole crew of a one-day shooting. He is very creative and reliable at work and a good friend outside work.</p>',
   logo: 'logo_tzsproduccions.png'}
-  
-  
+
+
 #-------------------------------
 # Contact Section
-  
+
 social:
 - {icon: 'film', link: 'https://vimeo.com/fabriziotappero/videos'}
 - {icon: 'googleplus', link: 'https://plus.google.com/u/0/107967937093458188059/'}
@@ -93,14 +93,5 @@ social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/fabriziotappero/'}
 - {icon: 'github', link: 'https://github.com/fabriziotappero'}
 
-  
+
 # social network icons available are "home,camera,film,envelope,googleplus,facebook,twitter,youtube,vimeo,github,linkedin"
-
-
-
-  
-  
-  
-  
-  
-  
