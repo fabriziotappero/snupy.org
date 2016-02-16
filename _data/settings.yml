@@ -1,9 +1,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Say it Visually
-description: Hi, I am a Videographer and an Engineer
+title: videos that people want to watch
+description: I'm an engineer and I make videos
 email: snupy.films@gmail.com
+tel: +34 633 04 8181
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -29,14 +30,12 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **I loves shooting videos.**
-  Specifically I am very much into [complicated digital electronics](http://freerangefactory.org)
-    ultimately  aimed at crafting *challanging motion-camera videos* and great aerial videos.
-  I specialise as well in Davinci Resolve video editing for post-processing work.
-  If you are interested in knowing more about me, have a look at my video work.
+  I am an engineer based in **Barcelona, Spain** and I am very much into crafting
+  electronics aimed at producing high-value and stimulating videos.\\
+
+  If you are interested in knowing more about me, have a look at my works.
   If you are interested in [my gear](http://snupy.org/gear) or in contacting with
-  me for a movie, an ad, a documentary or something related to videos,
-  do not hesitate to shoot me an e-mail.
+  me for a video work, do not hesitate to shoot me an e-mail.
 
 skills:
 - {name: Communication, value: '9'}

@@ -7,7 +7,7 @@
   +display(flex)
   +justify-content(space-around)
   +flex-wrap(wrap)
-  
+
   a
     display: block
     //background: $accent
@@ -17,10 +17,10 @@
     color: $accent
     border-radius: 50%
     font-size: 28px
-    margin: 20px
+    margin: 8px
     position: relative
-    
-    
+
+
     &:after
       content: ''
       display: block
@@ -30,7 +30,7 @@
       margin: -2px
       opacity: 1
       +transition()
-      
+
     &:hover:after
       +transform(scale(1.5))
       opacity: 0
@@ -44,8 +44,10 @@
 .biglink
   display: inline-block
   font:
-    size: 72px
+    size: 80px
     weight: 300
   line-height: 1
-  width: 90%
-  margin: 0 auto
+  width: 49%
+  @media (max-width: 640px)
+    width: 95%
+  margin: 20px auto
