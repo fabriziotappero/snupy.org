@@ -1,43 +1,42 @@
 header
   @extend %background-image
   background:
-    position: 30px 20px, 50% 50%
-    image: url(../img/#{$logo-path}), url(../img/#{$hero-path}) 
+    position: 10px 10px, 50% 50%
+    image: url(../img/#{$logo-path}), url(../img/#{$hero-path})
     blend-mode: normal, normal
   padding-bottom: 190px
-  //opacity: 0.9
 
-  
-  .logo
-    +size(50px)
-    float: left
-    margin: 10px 0 0 30px
-    
+
+  //.logo
+  //  +size(50px)
+  //  float: left
+  //  margin: 10px 0 0 30px
+
     path
       fill: rgba(0,0,0,0.99)
-    
+
   nav
     float: right
     padding: 30px 30px 0 0
-    
+
     a
       display: inline-block
       margin-left: 20px
-      
+
       color: rgba(0,0,0,0.7)
       @extend %small-bold
 
       //text-shadow: rgba(white,0.5) 1px 1px
       padding: 0 2px 0 2px
       background-color: rgba(white,0.2)
-      
+
       &:hover
         color: rgba(0,0,0,1)
-    
+
   h1
     text-align: center
     font:
-      size: 72px
+      size: 38px
       weight: 700
     color: white
     text-transform: uppercase
@@ -48,14 +47,14 @@ header
     margin-left: 5px
     margin-right: 5px
     //text-shadow: rgba(grey,0.6) 1px 1px, rgba(grey,0.6) -1px -1px
-  
+
     span
       display: inline-block
       padding: 0.2em 0.5em
       border: white solid 10px
       background-color: rgba(black,0.4)
       //box-shadow: rgba(white,0.2) 1px 1px, rgba(white,0.2) -1px -1px
-  
+
   .kicker
     @extend %small-bold
     text-align: center
@@ -71,19 +70,20 @@ header
 @media (max-width: 640px)
   header
     background:
-      position: 50% 20px, 50% 50%
-  
+      position: 50% 10px, 50% 50%
+      image: url(), url(../img/#{$hero-path})
+
     nav
       float: none
       text-align: center
       padding: 0 0 0 0
-      padding-top: 115px
-      
+      padding-top: 30px
+
       a
         margin-left: 0
         margin-right: 0
-        padding: 0 3px
-    
+        padding: 0 5px
+        font-size: 94%
     h1
-      padding-top: 0px
-    
+      padding-top: 80px
+      font-size: 25px

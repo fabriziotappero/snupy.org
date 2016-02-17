@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: videos that people want to watch
+title: Making videos people want to watch
 description: I'm an engineer and I make videos
 email: snupy.films@gmail.com
 tel: +34 633 04 8181
@@ -20,7 +20,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the Internet.
 
 seo:
-  description: 'Video editing, aerial videos, engineering, drones, video post-processing, Barcelona, Europe'
+  description: 'Video editing, aerial videos, engineering, drones, video post-processing, Barcelona, Spain, Europe, sort movie, shoot, video, lights, moviemaking'
   rel-author: 'https://plus.google.com/u/0/107967937093458188059/'
   rel-publisher: 'https://plus.google.com/u/0/107967937093458188059/'
 
@@ -30,20 +30,22 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  I am an engineer based in **Barcelona, Spain** and I am very much into crafting
-  electronics aimed at producing high-value and stimulating videos.\\
+  I am Fabrizio, I am based in **Barcelona, Spain** and I enjoy using my technical
+  engineering knowledge together with the art of making videos.
+  I specialise in corporate videos and sports videos but I enjoy very much
+  short movie making and peculiar story telling videos creation just as much.\\
 
   If you are interested in knowing more about me, have a look at my works.
   If you are interested in [my gear](http://snupy.org/gear) or in contacting with
-  me for a video work, do not hesitate to shoot me an e-mail.
+  me for a video work, do not hesitate to shoot me an e-mail or call me.
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
-- {name: Video Shooting, value: '8'}
-- {name: Video Post Processing, value: '6'}
-- {name: Embedded Programming, value: '8'}
-- {name: Electronics, value: '9'}
+- {name: Good Communication skills. I speak 4 languages, value: '9'}
+- {name: Organized and reliable. Very solution-oriented person, value: '7'}
+- {name: Resourceful and very hands-on person, value: '8'}
+- {name: Video post production knowledge, value: '6'}
+- {name: Well connected with other professionals, value: '9'}
+- {name: Technically knowledgeable and artistically quite creative, value: '9'}
 
 #-------------------------------
 # Work Section
@@ -91,6 +93,5 @@ social:
 #- {icon: 'youtube', link: 'https://www.youtube.com/user/fabrizioScreencast'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/fabriziotappero/'}
 - {icon: 'github', link: 'https://github.com/fabriziotappero'}
-
 
 # social network icons available are "home,camera,film,envelope,googleplus,facebook,twitter,youtube,vimeo,github,linkedin"
