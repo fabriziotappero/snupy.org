@@ -54,7 +54,7 @@ projects:
 - {name: One day With Fox-Head Rider, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Luxury Homes, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Bed & Breakfast, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Theatre Play, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Music Video - Disco Fries, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Restaurant Opening, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Dance With Me, folder: 'proj-6', file: 'work/proj-6.html'}
 #- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
