@@ -1,7 +1,12 @@
 <section class="alt-section section-work">
 
-    <h3 id="work">Some of My Works</h3> {% for project in site.data.settings.projects %}
-    <input type="radio" name="trigger" class="trigger" id="{{ project.folder }}" /> {% endfor %}
+    <h3 id="work">Some of My Works</h3> 
+    <p>Here you find some of the video works I have done in the past. For some works I did it all for some others I 
+    partecipated as an assistant, a camera operator or a photography guy.</p>
+    
+    {% for project in site.data.settings.projects %}
+    <input type="radio" name="trigger" class="trigger" id="{{ project.folder }}" /> 
+    {% endfor %}
 
     <input type="radio" name="trigger" id="return" class="return" />
 
