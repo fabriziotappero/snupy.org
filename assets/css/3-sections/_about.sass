@@ -56,30 +56,19 @@
     p
       font-size: 75% 
 
-
-
-
-  
-
-
-
-
 .blurb
   max-width: 620px
   padding: 0 20px
   margin: 50px auto
-  font-size: 24px
+  font-size: 21px
   text-align: center
   font-weight: 300
-  
-  
   
 .skill-lockup
   max-width: 540px
   margin: 100px auto
   color: #999
   +clearfix
-  
   
   .skill-unit
     width: 270px
@@ -108,15 +97,12 @@
       &.skill-#{$i} span:nth-child(n+#{$i+1})
         @extend %skill-color
       
-
 %skill-color
   background: $bgcolor
   
-
 @media screen and (max-width: 541px)
   .skill-lockup
     width: 220px
-    
     .skill-unit
       width: 220px
 
