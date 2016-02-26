@@ -1,6 +1,6 @@
 <section class="alt-section section-work">
 
-    <h3 id="work">Some of My Works</h3> 
+    <h3 id="work">Some of My Works & Collaborations</h3> 
     {% for project in site.data.settings.projects %}
     <input type="radio" name="trigger" class="trigger" id="{{ project.folder }}" /> 
     {% endfor %}
@@ -11,9 +11,6 @@
 
         <div class="thumb-wrap">
             <div class="thumb-container">
-                <p>Here you find some of the video works I have done in the past. For some works I did it all 
-                for some others I partecipated as an assistant, a camera operator or a photography guy.</p>
-    
                 {% for project in site.data.settings.projects %}
                 <label for="{{ project.folder }}">
                     <div class="thumb-unit" data-folder="{{ project.folder }}" style="background-image: url(assets/img/work/{{project.folder}}/thumb.jpg);">
