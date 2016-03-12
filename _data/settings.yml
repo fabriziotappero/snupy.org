@@ -30,7 +30,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  I am and Italian videographer based in **Barcelona, Spain** and I enjoy 
+  I am and Italian videographer based in **Barcelona, Spain** and I enjoy
   using my technical knowledge together with the art of making videos.
   I specialise in marketing/advertising videos and sports videos but I enjoy very much
   short-movie making and peculiar story telling just as much.\\
@@ -51,14 +51,15 @@ skills:
 # Work Section
 
 projects:
-- {name: One day With Fox-Head Rider, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Luxury Homes, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Bed & Breakfast, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Music Video - Disco Fries, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Restaurant Opening, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Dance With Me, folder: 'proj-6', file: 'work/proj-6.html'}
-#- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-#- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Motorbike World Champion - Adam Raga, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: One day With Fox-Head Rider, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Luxury Homes, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Bed & Breakfast, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Music Video - Disco Fries, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Restaurant Opening, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Vimeo Video Channel, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: 2015 Snupy Show Reel, folder: 'proj-8', file: 'work/proj-8.html'}
+
 
 
 

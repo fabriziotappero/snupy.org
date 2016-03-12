@@ -2,14 +2,15 @@
 title:
 ---
 
-This is a teaser for a one day training video I have done with Julio César Gaona Nuñez.
-He is a mountain bike rider for the very well known [sports clothing brand Fox Head](http://www.foxhead.com). This video was shot in the surroundings of Corbera de Lloebregat, Spain.
+This is a video documentary of the incredible 6 time motorbike World champion [Adam Raga](http://adamraga.es/).
 
-<iframe src="//player.vimeo.com/video/102645332?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="300" height="170" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+When I met Adam and saw what he could do with his bike, I told myself *"I must
+capture this in a video and show it the World"*. It took me some time and some energy but it
+was well worth it.
+
+Adam was kind enough to dedicate some of his very intensive training time for the
+creation of this video. thank you!
+
+<iframe src="//player.vimeo.com/video/153500787?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="300" height="170" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 More videos at [my Vimeo page.](http://vimeo.com/fabriziotappero)
-
-
-
-
-
